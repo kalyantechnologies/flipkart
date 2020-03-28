@@ -1,2 +1,3 @@
 hai every one 
-this is about git 
+this is about git
+now im updting 
